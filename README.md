@@ -1,10 +1,5 @@
 ﻿# Castle Escape - Escape room videogame 
 
-Walk through Video in [Youtube](https://youtu.be/Qt44BrYS8bQ)  
-See detailed documentation: [Game Desing Document](https://github.com/nina20126/Castle_Escape/blob/main/CastleEscapeGameDesignDocument.pdf) (Only in Finnis language)  
-
-
-![image](https://github.com/nina20126/nina20126/assets/77397102/cc54291e-92d1-4714-a0fd-00a77bdf82c4)
 
 ###	Introduction
 
@@ -12,12 +7,9 @@ Castle Escape is 3D videogame for PC-users created with Unity. The player wakes 
 
 Before the game starts, the player can customize the character. There is also a brief tutorial for how to play the game and which are the main controllers.
 
-![image](https://github.com/nina20126/nina20126/assets/77397102/5672ed48-c4eb-41fb-9d8d-13bd605c13d1)
 
-### CREDITS
 
-**Team members:**  
-[Mir4H](https://github.com/Mir4H) & [ojalaija](https://github.com/ojalaija)  
+
 <br>
 **Tutorials used in this project:**  
 [Unity Documentation](https://docs.unity3d.com/Manual/index.html)  
@@ -34,7 +26,3 @@ Before the game starts, the player can customize the character. There is also a 
 **Unity Assets used in this project:**  
 [Ultimate Low Poly Dungeon](https://assetstore.unity.com/packages/3d/environments/dungeons/ultimate-low-poly-dungeon-143535)  
 [Low Poly Human - RPG Character](https://assetstore.unity.com/packages/3d/characters/humanoids/fantasy/free-low-poly-human-rpg-character-219979)  
-
-**Other:**  
-[Images.ai](https://images.ai)  
-[Epidemic Sound](https://www.epidemicsound.com/music/featured/)
